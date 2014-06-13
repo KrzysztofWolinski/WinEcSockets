@@ -1,0 +1,13 @@
+1. JVM + Java
+
+ftp://ftp.software.ibm.com/software/data/db2/everyplace/infocenters/enu/dbeapt0503b.htm
+"We use IBM's J9 JVM on Win CE." - p³atne?
+
+
+2. C (winsock)
+
+http://www.codeproject.com/Articles/1891/Beginning-Winsock-Programming-Simple-TCP-server
+http://msdn.microsoft.com/en-us/library/aa450264.aspx
+http://www.winsocketdotnetworkprogramming.com/winsock2programming/winsock2advancedcode1f.html
+Boost, asio http://www.boost.org/doc/libs/1_38_0/doc/html/boost_asio/examples.html
+http://msdn.microsoft.com/en-us/library/ms905342.aspx
